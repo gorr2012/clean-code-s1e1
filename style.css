@@ -18,8 +18,8 @@
 }
 
 @media (max-width:768px) {
-.eisenhower { text-align: center;
-}
+  .eisenhower { text-align: center;
+  }
 }
 .tasks {
   display: block;
