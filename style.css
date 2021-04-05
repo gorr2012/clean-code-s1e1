@@ -13,7 +13,7 @@ body {
 .eisenhower img {
   width: 100%;
 }
-.eisenhower .more-inf {
+.eisenhower .more-info {
   font-family: fantasy, cursive;
 }
 
@@ -21,7 +21,7 @@ body {
 .eisenhower { text-align: center;
 }
 }
-.centered-main-page-element {
+.tasks {
   display: block;
   width: 500px;
   margin: 0 auto 0;
